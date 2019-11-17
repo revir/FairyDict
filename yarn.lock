@@ -228,10 +228,10 @@ angular-ui-bootstrap@^2.5.6:
   resolved "https://registry.yarnpkg.com/angular-ui-bootstrap/-/angular-ui-bootstrap-2.5.6.tgz#23937322ec641a6fbee16498cc32452aa199e7c5"
   integrity sha512-yzcHpPMLQl0232nDzm5P4iAFTFQ9dMw0QgFLuKYbDj9M0xJ62z0oudYD/Lvh1pWfRsukiytP4Xj6BHOSrSXP8A==
 
-angular@~1.4.8:
-  version "1.4.14"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.4.14.tgz#9d0feaf60ce6e52ce50f49ee328656d1e1875c37"
-  integrity sha1-nQ/q9gzm5SzlD0nuMoZW0eGHXDc=
+angular@~1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.0.tgz#16c5edebd0a342046bd5281cca2decf04c40df76"
+  integrity sha1-FsXt69CjQgRr1Sgcyi3s8ExA33Y=
 
 ansi-colors@^3.0.0:
   version "3.2.4"
