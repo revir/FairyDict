@@ -194,6 +194,8 @@ chrome.runtime.sendMessage {
 		return unless text
 		return if text.split(/\s/).length > 4
 
+		return if $('.dictionaries-tooltip').length # ignore when find Dictionaries 
+
 		if setting.enablePlainLookup && text != plainQuerying
 			if !setting.enablePlainSK1 or (setting.plainSK1 and utils.checkEventKey(event, setting.plainSK1))
 				jQuery('.fairydict-tooltip').fadeIn('slow')
