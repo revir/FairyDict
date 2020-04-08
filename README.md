@@ -24,7 +24,6 @@
 # 安装地址
 
 * [chrome web store](https://chrome.google.com/webstore/detail/fairydict/gpdpcfgfmgkmljmhhnedefdaadgehaah)
-* [本地下载](https://github.com/revir/FairyDict/raw/master/build/fairy-dict.crx)
 
 # Feature
 
